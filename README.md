@@ -71,4 +71,8 @@ This idea could be extended into smart transport simulation or warehouse systems
 ## 🧑‍💻 Authors
 
 - Tejas Bhavekar – Hardware integration, color logic
-- (Add teammates if any)
+- Suryash Nagar - Hardware integration
+- Sumit Sarkar - Design
+- Taneti Naveen - Design
+- Tushar Saxena - Colour logic
+- Suryansh Garg - Design
