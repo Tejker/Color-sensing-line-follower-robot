@@ -1,4 +1,4 @@
-# 🎨🚌 Color-Sensing Line Follower Robot
+# Color-Sensing Line Follower Robot
 
 This project showcases a **color-sensing line follower robot**, designed using Arduino and basic electronics. While it functions as a standard line follower, we implemented a unique **bus-stop-like system using color sensing**, where different track colors trigger specific actions.
 
@@ -17,7 +17,7 @@ This project showcases a **color-sensing line follower robot**, designed using A
 
 ---
 
-## 🚦 Concept Overview
+## Concept Overview
 
 The robot simulates a **bus transit system**:
 
@@ -29,7 +29,7 @@ This idea could be extended into smart transport simulation or warehouse systems
 
 ---
 
-## 🧰 Components Used
+## Components Used
 
 | Component              | Description                         |
 |------------------------|-------------------------------------|
@@ -44,13 +44,13 @@ This idea could be extended into smart transport simulation or warehouse systems
 
 ---
 
-## 🛠️ Engineering Design
+## Engineering Design
 
 ![Wheel Drawing](wheel_linefollower.jpeg)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Upload the Arduino code (`code/color_line_follower.ino`) to the Uno board.
 2. Place the robot on a **black line on a white surface**.
@@ -59,7 +59,7 @@ This idea could be extended into smart transport simulation or warehouse systems
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Expand color-command mappings (e.g., blue = slow, red = stop).
 - Implement timed pauses or directional decisions.
@@ -68,7 +68,7 @@ This idea could be extended into smart transport simulation or warehouse systems
 
 ---
 
-## 🧑‍💻 Authors
+## Team memebrs
 
 - Tejas Bhavekar – Hardware integration, color logic
 - Suryash Nagar - Hardware integration
