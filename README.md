@@ -13,7 +13,7 @@ This project showcases a **color-sensing line follower robot**, designed using A
 - **Custom-built** with 3D printed wheels and a laser-cut chassis.
 - **Color-Based Behavior Modulation** using TCS3200 color sensor:
   - Stop when a specific color is detected.
-  - Future scope includes handling other colors for actions like **slowdown**, **turn**, or **pause**.
+  - Future scope includes handling other colors for actions like **slowdown**, **pause**, and more.
 
 ---
 
