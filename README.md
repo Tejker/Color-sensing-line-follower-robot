@@ -6,7 +6,7 @@ This project showcases a **color-sensing line follower robot**, designed using A
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Standard Line Following** using IR sensors.
 - **Motor Control** via L298N motor driver.
