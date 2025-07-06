@@ -2,7 +2,7 @@
 
 This project showcases a **color-sensing line follower robot**, designed using Arduino and basic electronics. While it functions as a standard line follower, we implemented a unique **bus-stop-like system using color sensing**, where different track colors trigger specific actions.
 
-![Hardware Setup](images/hardware_linefollower.jpeg)
+![Hardware Setup](hardware_linefollower.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ This idea could be extended into smart transport simulation or warehouse systems
 
 ## 🛠️ Engineering Design
 
-![Wheel Drawing](images/wheel_linefollower.jpeg)
+![Wheel Drawing](wheel_linefollower.jpeg)
 
 ---
 
